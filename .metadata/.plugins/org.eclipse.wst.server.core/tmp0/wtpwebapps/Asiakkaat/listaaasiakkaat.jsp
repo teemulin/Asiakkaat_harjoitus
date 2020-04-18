@@ -5,25 +5,15 @@
 <head>
 <meta charset="ISO-8859-1">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/main.css">
 <title>Insert title here</title>
-<style>
-.oikealle{
-	text-align: right;
-}
-.keskelle{
-	text-align: center;
-}
-.vasemmalle{
-	text-align: left;
-}
-</style>
 </head>
 <body>
 <table id="listaus">
 	<thead>
 		<tr>
-			<th colspan="2" class="oikealle">Hakusana:</th>
-			<th><input type="text" id="hakusana"></th>
+			<th class="oikealle" colspan="2">Hakusana:</th>
+			<th><input type="text" style="width: 90%;" id="hakusana"></th>
 			<th class="vasemmalle"><input type="button" value="Hae" id="hakunappi"></th>
 		</tr>
 		<tr>

@@ -1,0 +1,21 @@
+.oikealle{
+	text-align: right;
+}
+
+.keskelle{
+	text-align: center;
+}
+
+.vasemmalle{
+	text-align: left;
+}
+
+.green{
+	background-color: limegreen;
+	color: white;
+	border-style: solid;
+	border-width: 2px;	
+}
+.white{
+	
+}
