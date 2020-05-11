@@ -17,7 +17,6 @@ INDEX VERSION 1.131+D:\Eclipse\Ohjelmointi 2\Etätehtävä 4\.metadata\.plugins\org
 3797369502.index
 3288418826.index
 3417641981.index
-1432669214.index
 198552427.index
 1903049742.index
 2653710461.index
